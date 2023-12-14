@@ -24,7 +24,7 @@ can [download it here](https://www.docker.com/get-started/).
 
 1. Clone the repository:
     ```shell
-    $ git clone ...
+    $ git clone https://github.com/beeflow/cake-api
     ```
 
 2. Navigate to the project directory:
