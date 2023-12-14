@@ -1,0 +1,3 @@
+#!/bin/bash
+
+docker-compose exec waracle_cake_app python manage.py $@

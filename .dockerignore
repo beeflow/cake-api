@@ -1,0 +1,13 @@
+.circleci
+database
+env
+venv
+.git
+.gitignore
+Dockerfile
+docker-compose.yml
+htmlconv
+.env
+node_modules
+webtemplate
+.DS_Store
